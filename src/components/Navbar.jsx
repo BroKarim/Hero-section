@@ -15,7 +15,7 @@ export default function Navbar() {
         <nav className="flex items-center justify-between p-6 lg:px-8" aria-label="Global">
           <div className="flex lg:flex-1 ">
             <a href="#" className="-m-1.5 p-1.5 font-fredoka font-medium">
-              Bro Karim
+            Richard
             </a>
           </div>
           <div className="flex lg:hidden">
